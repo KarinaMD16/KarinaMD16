@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karina 👋</h1>
-<p align="center">Developer passionate about React, TypeScript, .NET, and creating beautiful UIs ✨</p>
+<p align="center">Developer passionate about React, TypeScript, .NET, and creating beautiful UIs :)</p>
 
 <p align="right">
   <a href="https://visitcount.itsvg.in">
