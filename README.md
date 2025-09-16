@@ -6,55 +6,67 @@
 
 ## 💻 Tech Stack
 
-<table align="center">
-  <tr>
-    <th align="center">🧑‍💻 Languages</th>
-    <th align="center">🛠️ Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+  <!-- Languages -->
+  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+    <h3 align="center">🧑‍💻 Languages</h3>
+    <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    </td>
-    <td align="center">
+    </p>
+  </div>
+
+  <!-- Tools -->
+  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+    <h3 align="center">🛠️ Tools</h3>
+    <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
-    </td>
-  </tr>
-</table>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+    </p>
+  </div>
 
----
-
-<table align="center">
-  <tr>
-    <th align="center">🎨 Frontend</th>
-    <th align="center">⚙️ Backend</th>
-  </tr>
-  <tr>
-    <td align="center">
+  <!-- Frontend -->
+  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+    <h3 align="center">🎨 Frontend</h3>
+    <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
       <img src="https://raw.githubusercontent.com/radix-ui/branding/main/logo/radix-ui-logo.svg" height="40" alt="Radix UI" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    </td>
-    <td align="center">
+    </p>
+  </div>
+
+  <!-- Backend -->
+  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+    <h3 align="center">⚙️ Backend</h3>
+    <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-    </td>
-  </tr>
-</table>
+    </p>
+  </div>
 
+  <!-- Extras -->
+  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+    <h3 align="center">🎨 Extras</h3>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+    </p>
+  </div>
+
+</div>
 
 ---
 
