@@ -7,9 +7,6 @@
 ## 💻 Tech Stack
 
 <div>
-
-  <!-- Languages -->
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">👩‍💻 Languages</h3>
     <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -25,14 +22,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     </p>
-  </div>
 
-  <!-- Tools -->
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
-    
-  </div>
-
-  <!-- Frontend -->
   <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">🎨 Frontend</h3>
     <p align="center" style="margin:0;">
@@ -43,11 +33,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     </p>
-  </div>
-
-  <!-- Backend -->
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
-    <h3 align="center">⚙️ Backend</h3>
     <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
