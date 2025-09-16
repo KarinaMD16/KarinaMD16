@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Karina 👋</h1>
 <p align="center">Developer passionate about React, TypeScript, .NET, and creating beautiful UIs :)</p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KarinaMD16&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
-</p>
-
 
 ---
 
