@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 2fr)); gap: 20px;">
 
   <!-- Languages -->
   <div style="border: 1px solid #444; border-radius: 12px; padding: 10px;">
