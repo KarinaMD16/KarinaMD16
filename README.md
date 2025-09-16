@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 
-<div>
+<div align="left">
     <h3 align="left">👩‍💻 Languages</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -23,7 +23,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     </p>
 
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
+  <div>
+  <div>
     <h3 align="left">Frontend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -32,12 +33,17 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     </p>
+      
+  </div>
+  <div>
     <h3 align="left">Backend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
     </p>
+      
+  </div>
   </div>
 
   <!-- Extras (opcional: ocupa toda la fila) -->
