@@ -37,7 +37,7 @@
 
   <!-- Design & Others -->
   <div style="border: 1px solid #444; border-radius: 12px; padding: 10px;">
-    <h3>🎨 Others</h3>
+    <h3>Extras</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
