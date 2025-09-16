@@ -54,6 +54,9 @@
     </p>
   </div>
 
+</div>
+
+
   <!-- Extras -->
   <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
     <h3 align="center">🎨 Extras</h3>
@@ -66,7 +69,7 @@
     </p>
   </div>
 
-</div>
+
 
 ---
 
