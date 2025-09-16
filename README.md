@@ -9,6 +9,8 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
   <!-- Languages -->
+
+  <div>
   <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
     <h3 align="center">🧑‍💻 Languages</h3>
     <p align="center">
@@ -30,7 +32,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     </p>
   </div>
-
+  </div>
   <!-- Frontend -->
   <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
     <h3 align="center">🎨 Frontend</h3>
