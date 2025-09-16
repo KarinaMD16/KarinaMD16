@@ -6,14 +6,14 @@
 ## 💻 Tech Stack
 
 <div align="left">
-    <h3 align="left">👩‍💻 Languages</h3>
+    <h3 align="left"> ⍣ ೋ Languages</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
     </p>
-    <h3 align="left">🛠️ Tools</h3>
+    <h3 align="left"> ⍣ ೋ Tools</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
@@ -24,14 +24,14 @@
     </p>
 
   <div>
-    <h3 align="left">Frontend</h3>
+    <h3 align="left"> ⍣ ೋ Frontend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-        <h3 align="left">Backend</h3>
+        <h3 align="left"> ⍣ ೋ Backend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
