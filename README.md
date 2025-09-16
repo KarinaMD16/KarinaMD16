@@ -6,12 +6,12 @@
 
 ## 💻 Tech Stack
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<div style="max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 20px;">
 
   <!-- Languages -->
-  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
-    <h3 align="center">🧑‍💻 Languages</h3>
-    <p align="center">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
+    <h3 align="center">👩‍💻 Languages</h3>
+    <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -20,9 +20,9 @@
   </div>
 
   <!-- Tools -->
-  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">🛠️ Tools</h3>
-    <p align="center">
+    <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
@@ -32,9 +32,9 @@
   </div>
 
   <!-- Frontend -->
-  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">🎨 Frontend</h3>
-    <p align="center">
+    <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
@@ -45,22 +45,19 @@
   </div>
 
   <!-- Backend -->
-  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">⚙️ Backend</h3>
-    <p align="center">
+    <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
     </p>
   </div>
 
-</div>
-
-
-  <!-- Extras -->
-  <div style="border: 1px solid #444; border-radius: 12px; padding: 15px; background-color: #1e1e1e;">
-    <h3 align="center">🎨 Extras</h3>
-    <p align="center">
+  <!-- Extras (opcional: ocupa toda la fila) -->
+  <div style="grid-column: 1 / -1; border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
+    <h3 align="center">🎯 Extras</h3>
+    <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
@@ -69,6 +66,7 @@
     </p>
   </div>
 
+</div>
 
 
 ---
