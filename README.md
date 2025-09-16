@@ -63,7 +63,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarinaMD16/KarinaMD16/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/KarinaMD16/KarinaMD16/output/snake.svg" alt="Snake animation" />
