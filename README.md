@@ -7,15 +7,15 @@
 ## 💻 Tech Stack
 
 <div>
-    <h3 align="center">👩‍💻 Languages</h3>
-    <p align="center" style="margin:0;">
+    <h3 align="left">👩‍💻 Languages</h3>
+    <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
     </p>
-    <h3 align="center">🛠️ Tools</h3>
-    <p align="center" style="margin:0;">
+    <h3 align="left">🛠️ Tools</h3>
+    <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
@@ -24,16 +24,16 @@
     </p>
 
   <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
-    <h3 align="center">🎨 Frontend</h3>
-    <p align="center" style="margin:0;">
+    <h3 align="left">Frontend</h3>
+    <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-      <img src="https://raw.githubusercontent.com/radix-ui/branding/main/logo/radix-ui-logo.svg" height="40" alt="Radix UI" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     </p>
-    <p align="center" style="margin:0;">
+    <h3 align="left">Backend</h3>
+    <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
@@ -42,8 +42,8 @@
 
   <!-- Extras (opcional: ocupa toda la fila) -->
   <div style="grid-column: 1 / -1; border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
-    <h3 align="center">🎯 Extras</h3>
-    <p align="center" style="margin:0;">
+    <h3 align="left">🎯 Extras</h3>
+    <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
