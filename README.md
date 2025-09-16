@@ -24,7 +24,6 @@
     </p>
 
   <div>
-  <div>
     <h3 align="left">Frontend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -33,9 +32,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     </p>
-      
-  </div>
-  <div>
     <h3 align="left">Backend</h3>
     <p align="left" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
@@ -44,9 +40,7 @@
     </p>
       
   </div>
-  </div>
 
-  <!-- Extras (opcional: ocupa toda la fila) -->
   <div style="grid-column: 1 / -1; border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="left">🎯 Extras</h3>
     <p align="left" style="margin:0;">
