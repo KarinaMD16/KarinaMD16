@@ -2,10 +2,9 @@
 <p align="center">Developer passionate about React, TypeScript, .NET, and creating beautiful UIs :)</p>
 
 <p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=KarinaMD16&icon=9&color=10" alt="visit counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=KarinaMD16&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
+
 
 ---
 
