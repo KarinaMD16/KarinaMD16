@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 
-<div style="max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 20px;">
+<div>
 
   <!-- Languages -->
   <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
@@ -17,10 +17,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
     </p>
-  </div>
-
-  <!-- Tools -->
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
     <h3 align="center">🛠️ Tools</h3>
     <p align="center" style="margin:0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -29,6 +25,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     </p>
+  </div>
+
+  <!-- Tools -->
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; background:#0d1117;">
+    
   </div>
 
   <!-- Frontend -->
